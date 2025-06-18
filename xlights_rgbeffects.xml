@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d01c1" Controller="dancers" PixelSize="10" WorldPosX="239.5335" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:1">
+      <ControllerConnection Port="1" Protocol="dmx" channel="1"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d01c2" Controller="dancers" WorldPosX="239.5335" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:2">
+      <ControllerConnection Protocol="dmx" Port="1" channel="2"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d01c3" Controller="dancers" WorldPosX="239.5335" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:3">
+      <ControllerConnection Port="1" Protocol="dmx" channel="3"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d01c4" Controller="dancers" WorldPosX="239.5335" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:4">
+      <ControllerConnection Port="1" Protocol="dmx" channel="4"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d01c5" Controller="dancers" WorldPosX="239.5335" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:5">
+      <ControllerConnection Port="1" Protocol="dmx" channel="5"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d02c1" Controller="dancers" PixelSize="10" WorldPosX="254.5335" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:6">
+      <ControllerConnection Port="1" Protocol="dmx" channel="6"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d02c2" Controller="dancers" WorldPosX="254.5335" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:7">
+      <ControllerConnection Port="1" Protocol="dmx" channel="7"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d02c3" Controller="dancers" WorldPosX="254.5335" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:8">
+      <ControllerConnection Port="1" Protocol="dmx" channel="8"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d02c4" Controller="dancers" WorldPosX="254.5335" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:9">
+      <ControllerConnection Port="1" Protocol="dmx" channel="9"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d02c5" Controller="dancers" WorldPosX="254.5335" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:10">
+      <ControllerConnection Port="1" Protocol="dmx" channel="10"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d03c1" Controller="dancers" PixelSize="10" WorldPosX="270.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:11">
+      <ControllerConnection Port="1" Protocol="dmx" channel="11"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d03c2" Controller="dancers" WorldPosX="270.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:12">
+      <ControllerConnection Port="1" Protocol="dmx" channel="12"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d03c3" Controller="dancers" WorldPosX="270.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:13">
+      <ControllerConnection Port="1" Protocol="dmx" channel="13"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d03c4" Controller="dancers" WorldPosX="270.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:14">
+      <ControllerConnection Port="1" Protocol="dmx" channel="14"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d03c5" Controller="dancers" WorldPosX="270.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:15">
+      <ControllerConnection Port="1" Protocol="dmx" channel="15"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d04c1" Controller="dancers" PixelSize="10" WorldPosX="285.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:16">
+      <ControllerConnection Port="1" Protocol="dmx" channel="16"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d04c2" Controller="dancers" WorldPosX="285.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:17">
+      <ControllerConnection Port="1" Protocol="dmx" channel="17"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d04c3" Controller="dancers" WorldPosX="285.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:18">
+      <ControllerConnection Port="1" Protocol="dmx" channel="18"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d04c4" Controller="dancers" WorldPosX="285.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:19">
+      <ControllerConnection Port="1" Protocol="dmx" channel="19"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d04c5" Controller="dancers" WorldPosX="285.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:20">
+      <ControllerConnection Port="1" Protocol="dmx" channel="20"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d05c1" Controller="dancers" PixelSize="10" WorldPosX="303.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:21">
+      <ControllerConnection Port="1" Protocol="dmx" channel="21"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d05c2" Controller="dancers" WorldPosX="303.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:22">
+      <ControllerConnection Port="1" Protocol="dmx" channel="22"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d05c3" Controller="dancers" WorldPosX="303.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:23">
+      <ControllerConnection Port="1" Protocol="dmx" channel="23"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d05c4" Controller="dancers" WorldPosX="303.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:24">
+      <ControllerConnection Port="1" Protocol="dmx" channel="24"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d05c5" Controller="dancers" WorldPosX="303.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:25">
+      <ControllerConnection Port="1" Protocol="dmx" channel="25"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d06c1" Controller="dancers" PixelSize="10" WorldPosX="318.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:26">
+      <ControllerConnection Port="1" Protocol="dmx" channel="26"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d06c2" Controller="dancers" WorldPosX="318.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:27">
+      <ControllerConnection Port="1" Protocol="dmx" channel="27"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d06c3" Controller="dancers" WorldPosX="318.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:28">
+      <ControllerConnection Port="1" Protocol="dmx" channel="28"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d06c4" Controller="dancers" WorldPosX="318.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:29">
+      <ControllerConnection Port="1" Protocol="dmx" channel="29"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d06c5" Controller="dancers" WorldPosX="318.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:30">
+      <ControllerConnection Port="1" Protocol="dmx" channel="30"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d07c1" Controller="dancers" PixelSize="10" WorldPosX="332.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:31">
+      <ControllerConnection Port="1" Protocol="dmx" channel="31"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d07c2" Controller="dancers" WorldPosX="332.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:32">
+      <ControllerConnection Port="1" Protocol="dmx" channel="32"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d07c3" Controller="dancers" WorldPosX="332.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:33">
+      <ControllerConnection Port="1" Protocol="dmx" channel="33"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d07c4" Controller="dancers" WorldPosX="332.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:34">
+      <ControllerConnection Port="1" Protocol="dmx" channel="34"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d07c5" Controller="dancers" WorldPosX="332.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:35">
+      <ControllerConnection Port="1" Protocol="dmx" channel="35"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d08c1" Controller="dancers" PixelSize="10" WorldPosX="347.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:36">
+      <ControllerConnection Port="1" Protocol="dmx" channel="36"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d08c2" Controller="dancers" WorldPosX="347.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:37">
+      <ControllerConnection Port="1" Protocol="dmx" channel="37"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d08c3" Controller="dancers" WorldPosX="347.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:38">
+      <ControllerConnection Port="1" Protocol="dmx" channel="38"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d08c4" Controller="dancers" WorldPosX="347.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:39">
+      <ControllerConnection Port="1" Protocol="dmx" channel="39"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d08c5" Controller="dancers" WorldPosX="347.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:40">
+      <ControllerConnection Port="1" Protocol="dmx" channel="40"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d09c1" Controller="dancers" PixelSize="10" WorldPosX="365.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:41">
+      <ControllerConnection Port="1" Protocol="dmx" channel="41"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d09c2" Controller="dancers" WorldPosX="365.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:42">
+      <ControllerConnection Port="1" Protocol="dmx" channel="42"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d09c3" Controller="dancers" WorldPosX="365.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:43">
+      <ControllerConnection Port="1" Protocol="dmx" channel="43"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d09c4" Controller="dancers" WorldPosX="365.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:44">
+      <ControllerConnection Port="1" Protocol="dmx" channel="44"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d09c5" Controller="dancers" WorldPosX="365.0200" WorldPosY="727.1143" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:45">
+      <ControllerConnection Port="1" Protocol="dmx" channel="45"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d10c1" Controller="dancers" PixelSize="10" WorldPosX="380.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:46">
+      <ControllerConnection Port="1" Protocol="dmx" channel="46"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d10c2" Controller="dancers" WorldPosX="380.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:47">
+      <ControllerConnection Port="1" Protocol="dmx" channel="47"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d10c3" Controller="dancers" WorldPosX="380.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:48">
+      <ControllerConnection Port="1" Protocol="dmx" channel="48"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d10c4" Controller="dancers" WorldPosX="380.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:49">
+      <ControllerConnection Port="1" Protocol="dmx" channel="49"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#ffffff" StringType="Single Color Intensity" name="d10c5" Controller="dancers" WorldPosX="380.0200" WorldPosY="703.1343" WorldPosZ="0.0000" X2="0.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!dancers:50">
+      <ControllerConnection Port="1" Protocol="dmx" channel="50"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="7"/>
+  </view_objects>
+  <effects version="0007"/>
+  <views/>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d01c1,d01c2,d01c3,d01c4,d01c5" name="d01" centrex="203.533997" centrey="727.114319" centreDefined="0" centreMinx="203" centreMiny="727" centreMaxx="203" centreMaxy="727"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d02c1,d02c2,d02c3,d02c4,d02c5" name="d02" centrex="467.020508" centrey="667.134277" centreDefined="0" centreMinx="201" centreMiny="667" centreMaxx="733" centreMaxy="667"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d03c1,d03c2,d03c3,d03c4,d03c5" name="d03" centrex="467.020508" centrey="607.134277" centreDefined="0" centreMinx="201" centreMiny="607" centreMaxx="733" centreMaxy="607"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d04c1,d04c2,d04c3,d04c4,d04c5" name="d04"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d05c1,d05c2,d05c3,d05c4,d05c5" name="d05"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d06c1,d06c2,d06c3,d06c4,d06c5" name="d06"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d07c1,d07c2,d07c3,d07c4,d07c5" name="d07"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d08c1,d08c2,d08c3,d08c4,d08c5" name="d08"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d09c1,d09c2,d09c3,d09c4,d09c5" name="d09"/>
+    <modelGroup selected="0" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" DefaultCamera="2D" layout="minimalGrid" TagColour="black" models="d10c1,d10c2,d10c3,d10c4,d10c5" name="d10"/>
+    <modelGroup selected="0" name="all dancers" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d01c1,d01c2,d01c3,d01c4,d01c5,d02c1,d02c2,d02c3,d02c4,d02c5,d03c1,d03c2,d03c3,d03c4,d03c5,d04c1,d04c2,d04c3,d04c4,d04c5,d05c1,d05c2,d05c3,d05c4,d05c5,d06c1,d06c2,d06c3,d06c4,d06c5,d07c1,d07c2,d07c3,d07c4,d07c5,d08c1,d08c2,d08c3,d08c4,d08c5,d09c1,d09c2,d09c3,d09c4,d09c5,d10c1,d10c2,d10c3,d10c4,d10c5" centrex="467.020508" centrey="457.164276" centreDefined="0" centreMinx="201" centreMiny="187" centreMaxx="733" centreMaxy="727"/>
+    <modelGroup selected="0" name="ch1" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d01c1,d02c1,d03c1,d04c1,d05c1,d06c1,d07c1,d08c1,d09c1,d10c1" centrex="202.277252" centrey="457.124298" centreDefined="0" centreMinx="201" centreMiny="187" centreMaxx="203" centreMaxy="727"/>
+    <modelGroup selected="0" name="ch2" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d01c2,d02c2,d03c2,d04c2,d05c2,d06c2,d07c2,d08c2,d09c2,d10c2" centrex="334.463013" centrey="457.134277" centreDefined="0" centreMinx="334" centreMiny="187" centreMaxx="334" centreMaxy="727"/>
+    <modelGroup selected="0" name="ch3" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d01c3,d02c3,d03c3,d04c3,d05c3,d06c3,d07c3,d08c3,d09c3,d10c3" centrex="466.648834" centrey="457.144287" centreDefined="0" centreMinx="466" centreMiny="187" centreMaxx="467" centreMaxy="727"/>
+    <modelGroup selected="0" name="ch4" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d01c4,d02c4,d03c4,d04c4,d05c4,d06c4,d07c4,d08c4,d09c4,d10c4" centrex="598.834717" centrey="457.154297" centreDefined="0" centreMinx="597" centreMiny="187" centreMaxx="600" centreMaxy="727"/>
+    <modelGroup selected="0" name="ch5" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d01c5,d02c5,d03c5,d04c5,d05c5,d06c5,d07c5,d08c5,d09c5,d10c5" centrex="385.277252" centrey="700.134277" centreDefined="0" centreMinx="203" centreMiny="667" centreMaxx="567" centreMaxy="733"/>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d01c1,d01c2,d01c3,d01c4,d01c5,d02c1,d02c2,d02c3,d02c4,d02c5,d03c1,d03c2,d03c3,d03c4,d03c5,d04c1,d04c2,d04c3,d04c4,d04c5,d05c1,d05c2,d05c3,d05c4,d05c5,d06c1,d06c2,d06c3,d06c4,d06c5,d07c1,d07c2,d07c3,d07c4,d07c5,d08c1,d08c2,d08c3,d08c4,d08c5,d09c1,d09c2,d09c3,d09c4,d09c5,d10c1,d10c2,d10c3,d10c4,d10c5" name="all off" centrex="467.020508" centrey="457.164276" centreDefined="0" centreMinx="201" centreMiny="187" centreMaxx="733" centreMaxy="727"/>
+    <modelGroup selected="0" name="evens" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d02,d04,d06,d08,d10"/>
+    <modelGroup selected="0" name="odds" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="d01,d03,d05,d07,d09"/>
+  </modelGroups>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293440;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293440;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=750;besth=1050;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=750;floath=1050|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=199;besth=148;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=487;besth=889;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=593;besth=407;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SearchPanel;caption=Search Panel;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=574;besth=376;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1260;besth=756;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=50;besth=50;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=FindData;caption=Find Data;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=603;besth=176;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=392;besth=411;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=304;besth=277;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=247;besth=80;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=180;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=332;floaty=226;floatw=320;floath=199|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=296;besth=221;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=352|dock_size(1,0,0)=143|dock_size(5,0,0)=298|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <LayoutMode3D value="0"/>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+  </settings>
+  <colors>
+    <DisabledEffect Red="200" Green="200" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedDisabled Red="200" Green="200" Blue="64"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="128" Blue="152"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <LockedEffect Red="200" Green="0" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectDisabled Red="255" Green="255" Blue="127"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="127"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <TextHighlighted Red="0" Green="0" Blue="0"/>
+    <TextUnselected Red="0" Green="0" Blue="0"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformMouseMarker Red="0" Green="0" Blue="255"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints/>
+</xrgb>
